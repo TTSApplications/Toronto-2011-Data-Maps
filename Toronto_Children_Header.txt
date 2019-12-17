@@ -1,0 +1,4 @@
+2011 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Family characteristics / Total children in census families in private households
+COL2 - Population and dwelling counts / Population, 2011
